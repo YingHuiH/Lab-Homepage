@@ -7,7 +7,7 @@ title: "PEOPLE"
 
 
 
-
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"  />
 <h2 style="font-family:courier" >Join Us!</h2>
 <p style="font-size:20px;font-family:courier"> Gourp Members: </p>
 
