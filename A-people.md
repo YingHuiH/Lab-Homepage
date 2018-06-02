@@ -140,7 +140,7 @@ title: "PEOPLE"
     <td style="width:15%;"><div style="background:white; height:auto;"> </div></td>	
 
     <td style="width:20%;" valign="top"><div style="background:white; height:auto;">
-			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
+			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl02.png" center />
 			 <p style="font-family:courier">Name  </p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 	 </div></td>
