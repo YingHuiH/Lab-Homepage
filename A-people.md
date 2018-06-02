@@ -65,7 +65,48 @@ title: "PEOPLE"
   </table>
 
 
- 
+   <table border="0" cellpadding="0" cellspacing="0" width="100%" align="left">
+   <tr>
+   	<td style="width:5%;" valign="top"><div style="background:white; height:auto;"> </div></td>	
+	
+    <td style="width:18%;" valign="top"  ><div style="background:white; height:auto; ">
+			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl02.png" center />
+			 <p style="font-family:courier">Name   </p>
+			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
+			 <a href="http://www.baidu.com" style="font-size:15px;font-family:courier"> Personal Website </a>
+			 <br />
+			 <br />
+			 <p style="font-family:courier">   </p>
+	 </div></td>
+	
+    <td style="width:6%;"><div style="background:white; height:auto;"> </div></td>	
+
+    <td style="width:18%;" valign="top"  ><div style="background:white; height:auto;">
+			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
+			 <p style="font-family:courier">Name  </p>
+			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
+	 </div></td>
+	
+    <td style="width:6%;"><div style="background:white; height:auto;"> </div></td>	
+	
+    <td style="width:18%;" valign="top"  ><div style="background:white; height:auto;">
+			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl02.png" center />
+			 <p style="font-family:courier">Name  </p>
+			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
+	 </div></td>
+	
+    <td style="width:6%;"><div style="background:white; height:auto;"> </div></td>	
+
+	<td valign="top"  ><div style="background:white; height:auto;">
+			<img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
+			<p style="font-family:courier">Name  </p>
+			<p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
+	</div></td>
+	
+	<td style="width:5%;" ><div style="background:white; height:auto;"> </div></td>	
+	
+	</tr>
+  </table>
  
  
 <br />
@@ -88,39 +129,23 @@ title: "PEOPLE"
 
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
    <tr>
-   	<td style="width:1%;"><div style="background:white; height:auto;"> </div></td>	
+   	<td style="width:5%;"><div style="background:white; height:auto;"> </div></td>	
 	
-    <td style="width:18%;" valign="top"><div style="background:white; height:auto; ">
+    <td style="width:20%;" valign="top"><div style="background:white; height:auto; ">
 			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl02.png" center />
 			 <p style="font-family:courier">Name </p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 	 </div></td>
 	
-    <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
+    <td style="width:15%;"><div style="background:white; height:auto;"> </div></td>	
 
-    <td style="width:18%;" valign="top"><div style="background:white; height:auto;">
+    <td style="width:20%;" valign="top"><div style="background:white; height:auto;">
 			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
 			 <p style="font-family:courier">Name  </p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 	 </div></td>
 	
-    <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
-	
-    <td style="width:18%;" valign="top"><div style="background:white; height:auto;">
-			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl02.png" center />
-			 <p style="font-family:courier">Name  </p>
-			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
-	 </div></td>
-	
-    <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
-		
-	<td style="width:18%;" valign="top"><div style="background:white; height:auto;">
-			<img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
-			<p style="font-family:courier">Name  </p>
-			<p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
-	</div></td>
-	
-	<td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
+    <td style="width:15%;"><div style="background:white; height:auto;"> </div></td>	
 	
 	<td  valign="top"><div style="background:white; height:auto;" >
 			<img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
@@ -128,7 +153,7 @@ title: "PEOPLE"
 			<p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 	</div></td>
 	
-	<td style="width:1%;"><div style="background:white; height:auto;"> </div></td>	
+	<td style="width:5%;"><div style="background:white; height:auto;"> </div></td>	
 	
 	</tr>
   </table>
